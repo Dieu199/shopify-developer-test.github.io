@@ -1,0 +1,8 @@
+development:
+  password: shptka_d7b0166a3a84a9b6d5445e30b7415889
+  theme_id: 137933324453
+  store: dieu-test.myshopify.com
+  ignore_files:
+    - config/settings_data.json
+    - templates/*.json  
+    # - "locales/*"
